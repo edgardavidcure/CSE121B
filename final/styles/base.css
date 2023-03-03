@@ -57,5 +57,9 @@ body{
     min-width: 100px;
 
 }
+img {
+    width: auto;
+    height: 200px;
+}
 
 
